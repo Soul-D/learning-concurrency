@@ -1,11 +1,6 @@
 package org.learningconcurrency
 package ch5
 
-
-
-
-
-
 object ParBasic extends App {
   import scala.collection._
 
